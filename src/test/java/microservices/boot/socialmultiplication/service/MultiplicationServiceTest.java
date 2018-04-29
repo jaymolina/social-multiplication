@@ -1,8 +1,6 @@
-package microservices.boot.service;
+package microservices.boot.socialmultiplication.service;
 
 import microservices.boot.socialmultiplication.domain.Multiplication;
-import microservices.boot.socialmultiplication.service.MultiplicationService;
-import microservices.boot.socialmultiplication.service.RandomGeneratorService;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
